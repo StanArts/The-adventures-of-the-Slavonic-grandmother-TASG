@@ -7,16 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		61702BAF220F8C4D00D08F99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BAE220F8C4D00D08F99 /* AppDelegate.swift */; };
-		61702BB1220F8C4D00D08F99 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61702BB0220F8C4D00D08F99 /* GameScene.sks */; };
-		61702BB3220F8C4D00D08F99 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61702BB2220F8C4D00D08F99 /* Actions.sks */; };
-		61702BB5220F8C4D00D08F99 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BB4220F8C4D00D08F99 /* GameScene.swift */; };
-		61702BB7220F8C4D00D08F99 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BB6220F8C4D00D08F99 /* GameViewController.swift */; };
-		61702BBA220F8C4D00D08F99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61702BB8220F8C4D00D08F99 /* Main.storyboard */; };
-		61702BBC220F8C4D00D08F99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61702BBB220F8C4D00D08F99 /* Assets.xcassets */; };
-		61702BBF220F8C4D00D08F99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61702BBD220F8C4D00D08F99 /* LaunchScreen.storyboard */; };
 		61702BCA220F8C4D00D08F99 /* TASGTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BC9220F8C4D00D08F99 /* TASGTests.swift */; };
 		61702BD5220F8C4D00D08F99 /* TASGUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BD4220F8C4D00D08F99 /* TASGUITests.swift */; };
+		61702BFB220F8C8D00D08F99 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61702BE3220F8C8600D08F99 /* Info.plist */; };
+		61702BFD220F8C8D00D08F99 /* CasualMode in Resources */ = {isa = PBXBuildFile; fileRef = 61702BE5220F8C8600D08F99 /* CasualMode */; };
+		61702BFE220F8C8D00D08F99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BE6220F8C8600D08F99 /* AppDelegate.swift */; };
+		61702C00220F8C8D00D08F99 /* backgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 61702BE8220F8C8700D08F99 /* backgroundMusic.mp3 */; };
+		61702C06220F8C8D00D08F99 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61702BEE220F8C8700D08F99 /* MenuScene.swift */; };
+		61702C07220F8C8D00D08F99 /* StoryMode in Resources */ = {isa = PBXBuildFile; fileRef = 61702BEF220F8C8B00D08F99 /* StoryMode */; };
+		61702C08220F8C8D00D08F99 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61702BF0220F8C8B00D08F99 /* Actions.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,21 +37,21 @@
 
 /* Begin PBXFileReference section */
 		61702BAB220F8C4D00D08F99 /* TASG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TASG.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		61702BAE220F8C4D00D08F99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		61702BB0220F8C4D00D08F99 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		61702BB2220F8C4D00D08F99 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		61702BB4220F8C4D00D08F99 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		61702BB6220F8C4D00D08F99 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		61702BB9220F8C4D00D08F99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		61702BBB220F8C4D00D08F99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		61702BBE220F8C4D00D08F99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		61702BC0220F8C4D00D08F99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61702BC5220F8C4D00D08F99 /* TASGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TASGTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61702BC9220F8C4D00D08F99 /* TASGTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TASGTests.swift; sourceTree = "<group>"; };
 		61702BCB220F8C4D00D08F99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61702BD0220F8C4D00D08F99 /* TASGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TASGUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61702BD4220F8C4D00D08F99 /* TASGUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TASGUITests.swift; sourceTree = "<group>"; };
 		61702BD6220F8C4D00D08F99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61702BE2220F8C8500D08F99 /* TASG-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TASG-Bridging-Header.h"; sourceTree = "<group>"; };
+		61702BE3220F8C8600D08F99 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61702BE5220F8C8600D08F99 /* CasualMode */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CasualMode; sourceTree = "<group>"; };
+		61702BE6220F8C8600D08F99 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		61702BE8220F8C8700D08F99 /* backgroundMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backgroundMusic.mp3; sourceTree = "<group>"; };
+		61702BEE220F8C8700D08F99 /* MenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		61702BEF220F8C8B00D08F99 /* StoryMode */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StoryMode; sourceTree = "<group>"; };
+		61702BF0220F8C8B00D08F99 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		61702BF9220F8C8C00D08F99 /* TASG - Full project-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TASG - Full project-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,15 +102,15 @@
 		61702BAD220F8C4D00D08F99 /* TASG */ = {
 			isa = PBXGroup;
 			children = (
-				61702BAE220F8C4D00D08F99 /* AppDelegate.swift */,
-				61702BB0220F8C4D00D08F99 /* GameScene.sks */,
-				61702BB2220F8C4D00D08F99 /* Actions.sks */,
-				61702BB4220F8C4D00D08F99 /* GameScene.swift */,
-				61702BB6220F8C4D00D08F99 /* GameViewController.swift */,
-				61702BB8220F8C4D00D08F99 /* Main.storyboard */,
-				61702BBB220F8C4D00D08F99 /* Assets.xcassets */,
-				61702BBD220F8C4D00D08F99 /* LaunchScreen.storyboard */,
-				61702BC0220F8C4D00D08F99 /* Info.plist */,
+				61702BF0220F8C8B00D08F99 /* Actions.sks */,
+				61702BE6220F8C8600D08F99 /* AppDelegate.swift */,
+				61702BEE220F8C8700D08F99 /* MenuScene.swift */,
+				61702BE5220F8C8600D08F99 /* CasualMode */,
+				61702BE3220F8C8600D08F99 /* Info.plist */,
+				61702BE8220F8C8700D08F99 /* backgroundMusic.mp3 */,
+				61702BEF220F8C8B00D08F99 /* StoryMode */,
+				61702BF9220F8C8C00D08F99 /* TASG - Full project-Bridging-Header.h */,
+				61702BE2220F8C8500D08F99 /* TASG-Bridging-Header.h */,
 			);
 			path = TASG;
 			sourceTree = "<group>";
@@ -202,6 +201,7 @@
 				TargetAttributes = {
 					61702BAA220F8C4D00D08F99 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 					};
 					61702BC4220F8C4D00D08F99 = {
 						CreatedOnToolsVersion = 10.1;
@@ -238,11 +238,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61702BBA220F8C4D00D08F99 /* Main.storyboard in Resources */,
-				61702BB1220F8C4D00D08F99 /* GameScene.sks in Resources */,
-				61702BBC220F8C4D00D08F99 /* Assets.xcassets in Resources */,
-				61702BBF220F8C4D00D08F99 /* LaunchScreen.storyboard in Resources */,
-				61702BB3220F8C4D00D08F99 /* Actions.sks in Resources */,
+				61702C08220F8C8D00D08F99 /* Actions.sks in Resources */,
+				61702BFD220F8C8D00D08F99 /* CasualMode in Resources */,
+				61702C00220F8C8D00D08F99 /* backgroundMusic.mp3 in Resources */,
+				61702BFB220F8C8D00D08F99 /* Info.plist in Resources */,
+				61702C07220F8C8D00D08F99 /* StoryMode in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,9 +267,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61702BB5220F8C4D00D08F99 /* GameScene.swift in Sources */,
-				61702BB7220F8C4D00D08F99 /* GameViewController.swift in Sources */,
-				61702BAF220F8C4D00D08F99 /* AppDelegate.swift in Sources */,
+				61702BFE220F8C8D00D08F99 /* AppDelegate.swift in Sources */,
+				61702C06220F8C8D00D08F99 /* MenuScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,25 +302,6 @@
 			targetProxy = 61702BD1220F8C4D00D08F99 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		61702BB8220F8C4D00D08F99 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				61702BB9220F8C4D00D08F99 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		61702BBD220F8C4D00D08F99 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				61702BBE220F8C4D00D08F99 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		61702BD7220F8C4D00D08F99 /* Debug */ = {
@@ -444,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 792Y43H23T;
 				INFOPLIST_FILE = TASG/Info.plist;
@@ -453,6 +434,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = StanArts.TASG;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TASG/TASG-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -462,6 +445,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 792Y43H23T;
 				INFOPLIST_FILE = TASG/Info.plist;
@@ -471,6 +455,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = StanArts.TASG;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TASG/TASG-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

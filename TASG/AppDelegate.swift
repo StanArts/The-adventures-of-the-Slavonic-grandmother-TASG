@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  TASG
+//  StoryMode3
 //
-//  Created by user149141 on 2/9/19.
-//  Copyright © 2019 StanArts. All rights reserved.
+//  Created by user149141 on 2/2/19.
+//  Copyright © 2019 user149141. All rights reserved.
 //
 
 import UIKit
