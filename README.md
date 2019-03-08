@@ -24,7 +24,8 @@
 начисляват като негов рекорд.
 </p>
 
-<a href="https://vimeo.com/user95976812/review/322270988/3e3235c9d8" target="_blank">Клип към играта</a>
+<p align = "center">
+  <img src = "casual mode.gif" witdh = 100>
 
 ## Режим с включена история
 
@@ -53,3 +54,8 @@
 ще могат да участват в ранглисти в Game Center, спрямо получените им резултати от неангажиращия режим или от броя отключени
 предизвикателства, намиращи се на страницата на играта в Game Center.
 </p>
+
+<p align = "center">
+  <img src = "gamecenter preview.gif" witdh = 100>
+</p>
+
