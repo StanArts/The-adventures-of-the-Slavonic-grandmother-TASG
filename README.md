@@ -57,7 +57,7 @@
 
 <p align = "center">
   <img src = "gamecenter preview.gif" witdh = 100>
-  <img src = "gamecenter preview2.png" witdh = 100>
+  <img src = "gamecenter preview2.png" witdh = 50>
   <img src = "store.png" witdh = 100>
 </p>
 
