@@ -48,10 +48,10 @@ store“, който отваря магазина в приложението, 
 "умре" или завърши успешно историята.
 </p>
 
-<a href="https://vimeo.com/user95976812/review/322339204/a0ac7a1734" target="_blank"><b><i> Историята </i></b> (или поне само началото) 
+<a href="https://drive.google.com/file/d/1SUX4c-Sq_T4VhwO0TAA-GiI2Tk61ZkhM/view?usp=sharing" target="_blank"><b><i> Историята </i></b> (или поне само началото) 
 :smile: </a>
 
-<a href="https://vimeo.com/user95976812/review/322270988/3e3235c9d8" target="_blank">Клип към играта</a>
+<a href="https://drive.google.com/file/d/1GwIbyQAuy-CAIiHmC67v3Mks1SnTVGCa/view?usp=sharing" target="_blank">Клип към играта</a>
 
 ## Допълнителни Компоненти
 
