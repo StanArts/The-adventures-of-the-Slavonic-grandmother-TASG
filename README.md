@@ -7,6 +7,10 @@
 възможност за комуникация между играчите и достъп до Game Center или до Google games.
 </p>
 
+## В началото бе... меню екранът
+
+
+
 ## Неагажиращ режи
 
 <p align = "justify"> 
@@ -57,7 +61,7 @@
 
 <p align = "center">
   <img src = "gamecenter preview.gif" witdh = 100>
-  <img src = "gamecenter preview2.png" witdh = 50>
+  <img src = "gamecenter preview2.png">
   <img src = "store.png" witdh = 100>
 </p>
 
