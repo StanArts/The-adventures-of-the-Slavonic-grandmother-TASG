@@ -4,7 +4,7 @@
 This project is a RPG mobile game, which has two modes. The first one is limitless, it is a constant journey where the user tries to avoid different obstacles. The passing of the obstacles defines the result. The other mode is divided into different levels, which comprise a whole storyline based on the prior choice of the user to be a "good" or "bad" character. The game has online shop where the user can buy clothing and facial features for his character. Moreover, the project has social media feature where players can share their results and to compete with each other. The more a player plays, the more rewards and levels are unlocked.
 </p>
 
-<img src = "info-media/animStates.png" style="center" witdh = 100>info-media/Logo_Newer.png</img>
+<img src = "..master/info-media/animStates.png" style="center" witdh = 100>info-media/Logo_Newer.png</img>
 
 <p><i>Note:</i>The graphics are not included in the repository. Only the source codes are available.</p>
 
@@ -17,7 +17,7 @@ This project is a RPG mobile game, which has two modes. The first one is limitle
 възможност за комуникация между играчите и достъп до Game Center или до Google games.
 </p>
 
-<img src = "info-media/animStates.png" witdh = 100>
+<img src = "../master/info-media/animStates.png" witdh = 100>
 
 ## В началото...
 
@@ -61,11 +61,13 @@ This project is a RPG mobile game, which has two modes. The first one is limitle
 
 <p align = "center">
   <img src = "info-media/gameCenterPreview.gif" witdh = 100>
-  <img src = "info-media/store.png" witdh = 100>
+  <img src = "info-media/store.png" witdh = 90 height = 90>
 </p>
 
-### За повече детайли, кликнете [тук](../master/Documentation/)
+### За повече детайли, моля кликнете [тук](../master/Documentation/)!
 
-<i align = "center">Created for the National Olympiad in Information Technologies, 2019 </br>
-Vratsa, Bulgaria></br>
+<p align = "center">
+<i>Created for the National Olympiad in Information Technologies, 2019 </br>
+Vratsa, Bulgaria</br>
 © All rights reserved.</i>
+</p>
