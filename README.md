@@ -4,7 +4,9 @@
 This project is a RPG mobile game, which has two modes. The first one is limitless, it is a constant journey where the user tries to avoid different obstacles. The passing of the obstacles defines the result. The other mode is divided into different levels, which comprise a whole storyline based on the prior choice of the user to be a "good" or "bad" character. The game has online shop where the user can buy clothing and facial features for his character. Moreover, the project has social media feature where players can share their results and to compete with each other. The more a player plays, the more rewards and levels are unlocked.
 </p>
 
-<img src = "..master/info-media/animStates.png" style="center" witdh = 100>info-media/Logo_Newer.png</img>
+<p align = "center">
+  <img src = "https://github.com/StanArts/The-adventures-of-the-Slavonic-grandmother-TASG/blob/master/info-media/Logo_Newer.png"></img>
+</p>
 
 <p><i>Note:</i>The graphics are not included in the repository. Only the source codes are available.</p>
 
@@ -17,13 +19,17 @@ This project is a RPG mobile game, which has two modes. The first one is limitle
 възможност за комуникация между играчите и достъп до Game Center или до Google games.
 </p>
 
-<img src = "../master/info-media/animStates.png" witdh = 100>
+<p align = "center">
+  <img src = "https://github.com/StanArts/The-adventures-of-the-Slavonic-grandmother-TASG/blob/master/info-media/animStates.PNG"></img>
+</p>
 
 ## В началото...
 
 <p align = "justify">
 В началото пред потребителя ще се зареди главното меню на приложението, съдържащо основните опции за продължаване към различните режими на изпълнение на проекта (съответно достъп до неагажиращия тип игра ("casual mode"), режимът, съдържащ история ("story mode"), бутон, чието избиране осигурява достъп до услугите на Game Center, бутон, който препраща потребителя към настройките на играта, бутон "store", който отваря магазина в приложението, в който потребителят може да сменя облеклото или оръжието на героя, с който играе, бутон за меню „About“, в което може да бъдат прегледани още няколко пъти указанията за игра на всеки от игралните режими, както и да се научи повече информация за идейното създаване на играта и поддържащия я екип).
 </p>
+
+### За да прегледате документацията, моля кликнете [тук](../master/Documentation/)!
 
 ## Обикновен режим
 
@@ -60,11 +66,8 @@ This project is a RPG mobile game, which has two modes. The first one is limitle
 </p>
 
 <p align = "center">
-  <img src = "info-media/gameCenterPreview.gif" witdh = 100>
-  <img src = "info-media/store.png" witdh = 90 height = 90>
+  <img src = "info-media/store.png">
 </p>
-
-### За повече детайли, моля кликнете [тук](../master/Documentation/)!
 
 <p align = "center">
 <i>Created for the National Olympiad in Information Technologies, 2019 </br>
