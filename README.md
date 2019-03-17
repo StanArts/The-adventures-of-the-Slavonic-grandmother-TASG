@@ -8,7 +8,7 @@ This project is a RPG mobile game, which has two modes. The first one is limitle
   <img src = "https://github.com/StanArts/The-adventures-of-the-Slavonic-grandmother-TASG/blob/master/info-media/Logo_Newer.png"></img>
 </p>
 
-<p><i>Note:</i>The graphics are not included in the repository. Only the source codes are available.</p>
+<p><i>Note: </i><b>The graphics are not included in the repository. Only the source codes are available!</b></p>
 
 # Въведение
 
